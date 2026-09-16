@@ -9,15 +9,25 @@
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
-- **Linguagens:** C#, PHP, GDScript
-- **Game Dev:** Godot Engine
-- **Banco de Dados:** MySQL / PostgreSQL
-- **Ferramentas:** Git, GitHub, VS Code, Visual Studio
+### 🛠️ Tecnologias & Ferramentas
+
+<!-- Game Dev -->
+![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+
+<!-- Linguagens -->
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+<!-- Ferramentas -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ---
 
 #### 🎮 Jogos
-- 🍕 **Latte Pizza** *(Em desenvolvimento)*: Jogo 2D feito no **Godot Engine**. 
+- 🍕 **Late Pizza** *(Em desenvolvimento)*: Jogo 2D feito no **Godot Engine**. 
 
 #### 📱 Mobile & 💻 Desktop
 - 🚧 **App Mobile:** *(Em breve)* — Estudando e definindo escopo.
