@@ -9,7 +9,6 @@
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
-### 🛠️ Tecnologias & Ferramentas
 
 <!-- Game Dev -->
 ![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
