@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou a Sabryna 👋
 
-<!--
-**sabrynadev/sabrynadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre Mim
+- 🎧 Analista de Suporte na **Drogal**.
+- 🎮 Atualmente estudando e criando **jogos 2D** com a engine **Godot**.
+- 📱 Interessada no desenvolvimento de **aplicativos mobile e desktop**.
+- 💡 Buscando criar projetos variados para resolver problemas reais e explorar a criatividade através dos jogos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** C#, PHP, GDScript
+- **Game Dev:** Godot Engine
+- **Banco de Dados:** MySQL / PostgreSQL
+- **Ferramentas:** Git, GitHub, VS Code, Visual Studio
+
+---
+
+#### 🎮 Jogos
+- 🍕 **Latte Pizza** *(Em desenvolvimento)*: Jogo 2D feito no **Godot Engine**. 
+
+#### 📱 Mobile & 💻 Desktop
+- 🚧 **App Mobile:** *(Em breve)* — Estudando e definindo escopo.
+- 🚧 **App Desktop:** *(Em breve)* — Em fase de planejamento de projeto com C#.
+
+---
+
+### 📫 Como me encontrar
+- **LinkedIn:** www.linkedin.com/in/sabryna-oriani-28605442b
+- **E-mail:** orianisabryna019@gmail.com
